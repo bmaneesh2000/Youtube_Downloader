@@ -2,7 +2,8 @@
 
 It utlizes the Pytube module to download the required video with the required specifications.The application GUI is created using PyQt5
 
-Version 1 : Its able to take in an link and download an prespecified varient of the video.//
+Version 1 : Its able to take in an link and download an prespecified varient of the video.
+
 Version 2 : Its able to take in an link and download an video but can choose all varients of the video offered by youtube.
 
 Version 1: Simple
